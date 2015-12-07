@@ -1,0 +1,32 @@
+[
+    {
+        "caption": "Normalize NFC",
+        "command": "normalize_unicode",
+        "args": {
+            "nf" : "NFC"
+        }
+    },
+       {
+        "caption": "Normalize NFD",
+        "command": "normalize_unicode",
+        "args": {
+            "nf" : "NFD"
+        }
+
+    },
+    {
+        "caption": "Normalize NFKC",
+        "command": "normalize_unicode",
+        "args": {
+            "nf" : "NFKC"
+        }
+    },
+       {
+        "caption": "Normalize NFKD",
+        "command": "normalize_unicode",
+        "args": {
+            "nf" : "NFKD"
+        }
+
+    }
+]
